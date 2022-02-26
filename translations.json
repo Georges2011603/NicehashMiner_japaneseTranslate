@@ -781,7 +781,7 @@
       "ro": "Verificare GPUuri AMD OpenCL",
       "ru": "Проверка GPU AMD OpenCL",
       "zh_cn": "正在检测AMD OpenCL图形处理器",
-      "jp": "AMD OpenCLのGPUを確認する"
+      "jp": "AMD OpenCLのGPUを確認中"
     },
     "Checking for latest version...": {
       "bg": "Проверка за по-нова версия...",
@@ -3496,7 +3496,8 @@
       "jp": "コンピューター"
     },
     "Worker Name": {
-      "ru": "Имя воркера"
+      "ru": "Имя воркера",
+      "jp": "コンピューター名"
     },
     "Main": {
       "ru": "Основные",
@@ -3518,7 +3519,8 @@
       "jp": "サービス地域"
     },
     "Select Your Service Location": {
-      "ru": "Выберите вашу локацию сервиса"
+      "ru": "Выберите вашу локацию сервиса",
+      "jp": "あなたのサービス地域を選択してください。"
     },
     "Localization": {
       "ru": "Локализация",
@@ -3529,23 +3531,28 @@
       "jp": "言語"
     },
     "Currency": {
-      "ru": "Валюта"
+      "ru": "Валюта",
+      "jp": "通貨"
     },
     "Appearance": {
-      "ru": "Вид"
+      "ru": "Вид",
+      "jp": "外観"
     },
     "Theme": {
       "ru": "Тема",
       "jp": "テーマ"
     },
     "NiceHash Miner and Plugins Update": {
-      "ru": "Обновление NiceHash Miner и плагинов"
+      "ru": "Обновление NiceHash Miner и плагинов",
+      "jp": "アップデート"
     },
     "Auto update NiceHash Miner": {
-      "ru": "Автоматическое обновление NiceHash Miner"
+      "ru": "Автоматическое обновление NiceHash Miner",
+      "jp": "NiceHash Minerを自動アップデートする"
     },
     "Auto update installed plugins": {
-      "ru": "Автоматическое обновление установленных плагинов"
+      "ru": "Автоматическое обновление установленных плагинов",
+      "jp": "プラグインを自動アップデートする"
     },
     "Report a bug": {
       "ru": "Отчет об ошибке",
@@ -3563,7 +3570,8 @@
       "jp": "コンピューターの起動時にマイニングを実行"
     },
     "NiceHash Miner Window Always on Top": {
-      "ru": "Окна NiceHash Miner всегда сверху"
+      "ru": "Окна NiceHash Miner всегда сверху",
+      "jp": "常にこのウィンドウを前に表示する"
     },
     "Disable Visual C++ Redistributable Check": {
       "ru": "Отключить проверку Visual C++ Redistributable"
@@ -3572,10 +3580,12 @@
       "ru": "Мониторинг устройств"
     },
     "Logging": {
-      "ru": "Логирование"
+      "ru": "Логирование",
+      "jp": "ログ"
     },
     "Enable Debug Console": {
-      "ru": "Включить консоль отладки"
+      "ru": "Включить консоль отладки",
+      "jp": "デバッグコンソールを有効にする"
     },
     "Log Max File Size (bytes)": {
       "ru": "Макс. размер лог-файла (байты)"
@@ -3792,7 +3802,8 @@
       "ru": "ОСТАНОВИТЬ ВСЕ"
     },
     "View Stats Online": {
-      "ru": "Просмотр статистики онлайн"
+      "ru": "Просмотр статистики онлайн",
+      "jp": "オンラインでステータスを見る"
     },
     "Start Mining": {
       "ru": "Запустить майнинг"
@@ -3882,7 +3893,8 @@
       "jp": "有効"
     },
     "BENCHED": {
-      "ru": "ПРОТЕСТИРОВАНО"
+      "ru": "ПРОТЕСТИРОВАНО",
+      "jp": "ベンチマーク済み"
     },
     "ALGORITHM": {
       "ru": "АЛГОРИТМ"
@@ -4011,7 +4023,7 @@
     },
     "Sit tight, NiceHash Miner will start soon...": {
       "ru": "Будьте терпеливы, NiceHash Miner скоро запустится...",
-      "jp": "NiceHash Miner はまもなく起動します.../n翻訳:https://github.com/Georges2011603/NicehashMiner_japaneseTranslate"
+      "jp": "NiceHash Miner はまもなく起動します..."
     },
     "Checking CPU Info": {
       "ru": "Проверка информации о процессоре",
